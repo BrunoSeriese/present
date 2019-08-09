@@ -40,17 +40,15 @@ color: #66BFBF;
 .cloud
 {
   position: absolute;
-  left: 300px;
-  bottom: 300px;
-
-
+ left: 10rem;
+bottom: 10rem;
 }
 
 .cloud1
 {
   position: absolute;
-  right: 300px;
-  top: 50px;
+ right: 10rem;
+  top: 10rem;
 
 }
 
